@@ -5,8 +5,6 @@
 <h3 align="center">Transforming Concepts into Code with React Native/Expo & TypeScript 🎨</h3>
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDN5dHTSlrSx-kPrORX-THpjI-UbwxGitt4A&s" alt="Coding Freak" width="400" align="right">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dave-devs&label=Profile%20views&color=0e75b6&style=flat" alt="dave-devs" /> </p>
-
 <p align="left"> <a href="https://twitter.com/odetunde__" target="blank"><img src="https://img.shields.io/twitter/follow/odetunde__?logo=twitter&style=for-the-badge" alt="odetunde__" /></a> </p>
 
 - 🔭 I’m currently working on **WhatsApp Clone**
